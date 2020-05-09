@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06f4f1cd-4a0f-4df8-a49e-014e2df69a34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1bg1pU3CTvkFQpltqQb4WzLeS9E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="89" key="#Go_Modules_(vgo)" timestamp="1589039702633">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="391" y="89" key="#Go_Modules_(vgo)/0.0.1600.860@0.0.1600.860" timestamp="1589039702633" />
+    <state x="253" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589041740527">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="253" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1589041740527" />
+    <state x="553" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589040755580">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="553" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1589040755580" />
+    <state x="579" y="186" key="FileChooserDialogImpl" timestamp="1589040574690">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1589040574690" />
+  </component>
+</project>
